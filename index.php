@@ -176,7 +176,7 @@
             top: 20px;
             width: 15px;
             height: 15px;
-            background-image: url(./img/arrow-deactivate.png);
+            background-image: url(./img_termln/arrow-deactivate.png);
         }
 
         .termln-list__tabs-desktop-tabs__item.active,
@@ -187,7 +187,7 @@
 
         .termln-list__tabs-desktop-tabs__item.active::after,
         .termln-list__tabs-mob-item-tab.active span::after {
-            background-image: url(./img/arrow-active.png);
+            background-image: url(./img_termln/arrow-active.png);
         }
 
         .termln-list__tabs-desktop-tabs__item.active::after {
@@ -228,7 +228,7 @@
             display: block;
             width: 29px;
             height: 9px;
-            background-image: url(./img/anchor-arrow.png);
+            background-image: url(./img_termln/anchor-arrow.png);
         }
 
         .termln__anchor-list-item {
@@ -254,7 +254,7 @@
             position: absolute;
             top: 450px;
             left: 0;
-            background-image: url(./img/ellipse-desk.png);
+            background-image: url(./img_termln/ellipse-desk.png);
             background-position: center;
             background-size: cover;
             background-repeat: no-repeat;
@@ -706,31 +706,31 @@
                     <div class="termln__anchor-list">
                         <div class="termln__anchor-list-inner">
                             <a href="#hero-01" class="termln__anchor-list-item">
-                                <img src="./img/termln__anchor-list/01.png" alt="">
+                                <img src="./img_termln/termln__anchor-list/01.png" alt="">
                                 <span>Подробнее</span>
                             </a>
                             <a href="#hero-02" class="termln__anchor-list-item">
-                                <img src="./img/termln__anchor-list/02.png" alt="">
+                                <img src="./img_termln/termln__anchor-list/02.png" alt="">
                                 <span>Подробнее</span>
                             </a>
                             <a href="#hero-03" class="termln__anchor-list-item">
-                                <img src="./img/termln__anchor-list/03.png" alt="">
+                                <img src="./img_termln/termln__anchor-list/03.png" alt="">
                                 <span>Подробнее</span>
                             </a>
                             <a href="#hero-04" class="termln__anchor-list-item">
-                                <img src="./img/termln__anchor-list/04.png" alt="">
+                                <img src="./img_termln/termln__anchor-list/04.png" alt="">
                                 <span>Подробнее</span>
                             </a>
                             <a href="#hero-05" class="termln__anchor-list-item">
-                                <img src="./img/termln__anchor-list/05.png" alt="">
+                                <img src="./img_termln/termln__anchor-list/05.png" alt="">
                                 <span>Подробнее</span>
                             </a>
                             <a href="#hero-06" class="termln__anchor-list-item">
-                                <img src="./img/termln__anchor-list/06.png" alt="">
+                                <img src="./img_termln/termln__anchor-list/06.png" alt="">
                                 <span>Подробнее</span>
                             </a>
                             <a href="#hero-07" class="termln__anchor-list-item">
-                                <img src="./img/termln__anchor-list/07.png" alt="">
+                                <img src="./img_termln/termln__anchor-list/07.png" alt="">
                                 <span>Подробнее</span>
                             </a>
                         </div>
@@ -747,7 +747,7 @@
 
                             <div class="termln-list__item-body-main">
                                 <div class="termln-list__item-img termln-list__item-img_01">
-                                    <img src="./img/termln-list/001.png" alt="">
+                                    <img src="./img_termln/termln-list/001.png" alt="">
                                 </div>
                                 <div class="termln-list__item-desc">
                                     <div class="termln-list__item-desc-item">
@@ -838,7 +838,7 @@
 
                             <div class="termln-list__item-body-main">
                                 <div class="termln-list__item-img termln-list__item-img_02">
-                                    <img src="./img/termln-list/002.png" alt="">
+                                    <img src="./img_termln/termln-list/002.png" alt="">
                                 </div>
                                 <div class="termln-list__item-desc">
                                     <div class="termln-list__item-desc-item">
@@ -922,7 +922,7 @@
 
                             <div class="termln-list__item-body-main">
                                 <div class="termln-list__item-img termln-list__item-img_03">
-                                    <img src="./img/termln-list/003.png" alt="">
+                                    <img src="./img_termln/termln-list/003.png" alt="">
                                 </div>
                                 <div class="termln-list__item-desc">
                                     <div class="termln-list__item-desc-item">
@@ -1007,7 +1007,7 @@
 
                             <div class="termln-list__item-body-main">
                                 <div class="termln-list__item-img termln-list__item-img_04">
-                                    <img src="./img/termln-list/004.png" alt="">
+                                    <img src="./img_termln/termln-list/004.png" alt="">
                                 </div>
                                 <div class="termln-list__item-desc">
                                     <div class="termln-list__item-desc-item">
@@ -1100,7 +1100,7 @@
 
                             <div class="termln-list__item-body-main">
                                 <div class="termln-list__item-img termln-list__item-img_05">
-                                    <img src="./img/termln-list/005.png" alt="">
+                                    <img src="./img_termln/termln-list/005.png" alt="">
                                 </div>
                                 <div class="termln-list__item-desc">
                                     <div class="termln-list__item-desc-item">
@@ -1193,7 +1193,7 @@
 
                             <div class="termln-list__item-body-main">
                                 <div class="termln-list__item-img termln-list__item-img_06">
-                                    <img src="./img/termln-list/006.png" alt="">
+                                    <img src="./img_termln/termln-list/006.png" alt="">
                                 </div>
                                 <div class="termln-list__item-desc">
                                     <div class="termln-list__item-desc-item">
@@ -1286,7 +1286,7 @@
 
                             <div class="termln-list__item-body-main">
                                 <div class="termln-list__item-img termln-list__item-img_07">
-                                    <img src="./img/termln-list/007.png" alt="">
+                                    <img src="./img_termln/termln-list/007.png" alt="">
                                 </div>
                                 <div class="termln-list__item-desc">
                                     <div class="termln-list__item-desc-item">
